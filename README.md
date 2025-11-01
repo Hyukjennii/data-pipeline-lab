@@ -20,3 +20,10 @@ data-pipeline-lab/
 ├── reports/ # 성능 리포트
 ├── notebooks/ # 시각화/분석 노트북
 └── scripts/ # 자동화 스크립트
+
+##상호링크
+> 🔙 인프라 증빙 → https://github.com/Hyukjennii/infra-proof-portfolio  
+> 🤖 다음 단계(MLOps) → https://github.com/Hyukjennii/mlops-lab  
+> 🧭 커리어 전략 허브 → https://github.com/Hyukjennii/career-transition-plan
+
+
